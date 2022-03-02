@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <LangVersion>7.3</LangVersion>
+        <TargetFramework>net472</TargetFramework>
+        <RootNamespace></RootNamespace>
+        <AssemblyName />
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      <PackageReference Include="NUnit" Version="3.13.2" />
+      <PackageReference Include="SharpAdbClient" Version="2.3.23" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Example\Steps" />
+    </ItemGroup>
+
+</Project>

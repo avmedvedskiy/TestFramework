@@ -1,0 +1,17 @@
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\TestFramework.exe.config
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\TestFramework.exe
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\TestFramework.pdb
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\nunit.framework.dll
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\SharpAdbClient.dll
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\System.Buffers.dll
+D:\Projects\Test Framework\TestFramework\bin\Debug\net472\System.Drawing.Common.dll
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.csproj.AssemblyReference.cache
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.AssemblyInfoInputs.cache
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.AssemblyInfo.cs
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.csproj.CoreCompileInputs.cache
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.csproj.CopyComplete
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.exe
+D:\Projects\Test Framework\TestFramework\obj\Debug\net472\TestFramework.pdb
